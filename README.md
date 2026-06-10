@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-night-intimacy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Velvet Night Intimacy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-night-intimacy/) |
+| **Get License** | [Request Licensing for Velvet Night Intimacy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-night-intimacy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `948286e80780905d0c265772a9f59c85f7955a4a0068306ab7f1a42b948f89c4` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
